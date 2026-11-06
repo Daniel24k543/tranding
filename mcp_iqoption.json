@@ -1,0 +1,53 @@
+{
+  "mcpServers": {
+    "binary-options": {
+      "type": "streamable-http",
+      "url": "https://binary-options.mcp.iqoption.com",
+      "headers": {
+        "Authorization": "Bearer w3H7TroVxA8jtk8Fg8Jcgb-IloxMbtpvinQNjGsh"
+      }
+    },
+    "blitz-options": {
+      "type": "streamable-http",
+      "url": "https://blitz-options.mcp.iqoption.com",
+      "headers": {
+        "Authorization": "Bearer w3H7TroVxA3jtk8Fg8Jcgb-IloxMbtpvinQNjGsh"
+      }
+    },
+    "digital-options": {
+      "type": "streamable-http",
+      "url": "https://digital-options.mcp.iqoption.com",
+      "headers": {
+        "Authorization": "Bearer w3H7TroVxA3jtk8Fg8Jcgb-IloxMbtpvinQNjGsh"
+      }
+    },
+    "marginal-cfd": {
+      "type": "streamable-http",
+      "url": "https://marginal-cfd.mcp.iqoption.com",
+      "headers": {
+        "Authorization": "Bearer w3H7TroVxA3jtk8Fg8Jcgb-IloxMbtpvinQNjGsh"
+      }
+    },
+    "marginal-crypto": {
+      "type": "streamable-http",
+      "url": "https://marginal-crypto.mcp.iqoption.com",
+      "headers": {
+        "Authorization": "Bearer w3H7TroVxA3jtk8Fg8Jcgb-IloxMbtpvinQNjGsh"
+      }
+    },
+    "marginal-forex": {
+      "type": "streamable-http",
+      "url": "https://marginal-forex.mcp.iqoption.com",
+      "headers": {
+        "Authorization": "Bearer w3H7TroVxA3jtk8Fg8Jcgb-IloxMbtpvinQNjGsh"
+      }
+    },
+    "turbo-options": {
+      "type": "streamable-http",
+      "url": "https://turbo-options.mcp.iqoption.com",
+      "headers": {
+        "Authorization": "Bearer w3H7TroVxA3jtk8Fg8Jcgb-IloxMbtpvinQNjGsh"
+      }
+    }
+  }
+}
